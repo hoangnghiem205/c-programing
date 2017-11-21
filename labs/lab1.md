@@ -4,7 +4,7 @@
 - Mở chương trình CodeBlocks và tạo 1 Project mới
 - Mở file `main.c` 
 - Gõ lại nội dung chương trình như sau
-```
+```c
 #include <stdio.h>
 
 void main()
@@ -32,7 +32,7 @@ void main()
 - Tạo 1 Project mới từ CodeBlocks
 - Mở file `main.c`
 - Gõ lại nội dung chương trình như sau:
-```
+```c
 #include <stdio.h>
 
 void main()
