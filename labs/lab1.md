@@ -72,3 +72,8 @@ Người dùng nhập vào 1 số, sau đó in ra màn hình giá trị inch tư
 ### **Bài 7**
 Viết chương trình giải phương tình bậc 1: `ax + b = c`. 
 Người dùng nhập vào 3 số a,b,c. Tính giá trị x rồi in kết quả ra màn hình.
+
+### **Bài 8**
+Viết chương trình cho phép nhập vào 1 số nguyên s (0 < s < 65535) là số giây.
+In ra màn hình kết quả chuyển đổi từ giây sang dạng giờ:phut:giay
+VD: s = 61 -> 00:01:01
